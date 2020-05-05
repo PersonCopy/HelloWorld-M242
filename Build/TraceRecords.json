@@ -1,0 +1,1 @@
+[{"class": "TraceInfo", "MsgId": 1, "TraceString": "\"hello world 1\"", "File": null, "LineNumber": 21, "NumberOfArguments": 0}, {"class": "TraceInfo", "MsgId": 2, "TraceString": "\"hello world 1\"", "File": null, "LineNumber": 31, "NumberOfArguments": 0}]
